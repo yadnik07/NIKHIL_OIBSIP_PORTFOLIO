@@ -12,6 +12,7 @@ body, h1, p {
 .navbar li{
     display: flex;
     height: 67px;
+   
 }
 
 body {
@@ -24,6 +25,7 @@ header {
     background-color: #1364bb;
     color: #f9f4f4;
     padding: 20px;
+
 }
 
 .profile-image img {
@@ -44,6 +46,7 @@ section {
     margin: 20px;
     padding: 20px;
     border-radius: 5px;
+    border-color: #333030;
 }
 
 .contact-info p {
@@ -51,8 +54,9 @@ section {
 }
 
 a {
-    color: #0077B5;
+    color: #2306b0;
     text-decoration: none;
+    
 }
 
 a:hover {
